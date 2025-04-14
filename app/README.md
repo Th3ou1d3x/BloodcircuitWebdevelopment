@@ -1,8 +1,8 @@
 # Blood Circuit
 
-# Other Names (from chatgpt/ariaAi):
+Hub Name:  `The Nexus Hub`
 
-Hub Name:  `The Nexus Hub`: A central point for all your server's activities, implying a diverse and connected experience.
+# Other Names (from chatgpt/ariaAi):
 
 `Pixel Paradise`: Playful and inviting, suggesting a fun and creative environment.
 
